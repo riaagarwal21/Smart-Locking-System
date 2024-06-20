@@ -21,7 +21,7 @@ void loop() {
     if (incomingValue == '1' && !servoMoved) {
       myServo.attach(3);
       myServo.write(180);
-      delay(5000);
+      delay(265);
       myServo.detach();
       digitalWrite(statusLed, LOW);
       servoMoved = true;
@@ -30,7 +30,7 @@ void loop() {
     if (incomingValue == '2' && servoMoved) {
       myServo.attach(3);
       myServo.write(0);
-      delay(5000);
+      delay(265);
       myServo.detach();
       digitalWrite(statusLed, HIGH);
       servoMoved = false;
