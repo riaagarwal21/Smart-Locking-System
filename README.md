@@ -36,3 +36,9 @@ To customize the user interface of the application, you can use the .aia file an
 
 ## For Simulation
 Before uploading the given code, remove the wire end at RX0 pin. Once the code is uploaded, connect the wire end as earlier.
+
+
+To get a local copy of the project, you can clone the repository using the below mentioned command:
+
+  git clone https://github.com/riaagarwal21/Smart-Locking-System
+
