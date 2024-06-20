@@ -40,5 +40,5 @@ Before uploading the given code, remove the wire end at RX0 pin. Once the code i
 
 To get a local copy of the project, you can clone the repository using the below mentioned command:
 
-  git clone https://github.com/riaagarwal21/Smart-Locking-System
+      git clone https://github.com/riaagarwal21/Smart-Locking-System
 
